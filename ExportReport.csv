@@ -1,0 +1,10 @@
+Currency,Corporate,Region,TPP MID,Site ID,Emp ID,Auth Date,Transaction Date,Release Date,System Batch Number,Merchant Batch Number,Batch Status,POS Ref No.,Tokenized,Account No./Token ID,Encrypted,Exp Date,Payment Type,Account Holder,Tran Type,Tran Status,SAF Ind,Auth Code,Surcharge Amount,Surcharge Rate %,Total Surcharge Amount
+INR,brewnok,brewnok IN, ,1001,15EMP,02-12-2025 19:22,02/13/2025 00:23:04, ,0, , ,POS101,Yes,444455556666,On Guard - Failure, ,DC,,Sale,Error,0-Online,,0, ,0
+INR,brewnok,brewnok IN, ,1001,15EMP,02-12-2025 19:23,02/13/2025 00:23:40, ,0, , ,POS102,Yes,333355559999,On Guard - Failure, ,DC,,Sale,Error,0-Online,,0, ,0
+INR,brewnok,brewnok IN, ,1002,15EMP,02-12-2025 19:23,02/13/2025 00:24:04, ,0, , ,POS103,Yes,222244445555,On Guard - Failure, ,DC,,Sale,Error,0-Online,,0, ,0
+INR,brewnok,brewnok IN, ,1002,15EMP,02-12-2025 19:30,02/13/2025 01:30:30, ,0, , ,POS104,No,222244445555,On Guard - Failure,Sep-28,UK,,Sale,Error,0-Online,,0, ,0
+INR,brewnok,brewnok IN, ,1002,15EMP,02-12-2025 20:30,02/13/2025 01:30:33, ,0, , ,POS105,No,222244445555,On Guard - Failure,Aug-29,UK,VALUED CUSTOMER,Sale,Error,0-Online,,0, ,0
+INR,brewnok,brewnok IN,123456789,1002,15EMP,02-12-2025 19:00,02/13/2025 00:00:22,02/13/2025 05:04:17,891, ,Confirmed,POS106,Yes,222244445555,On Guard - Success, ,DB,,Sale,Approved,0-Online,435263,0, ,0
+INR,brewnok,brewnok IN,123456789,1002,15EMP,02-12-2025 19:01,02/13/2025 00:01:12,02/13/2025 05:04:17,891, ,Confirmed,POS107,Yes,222244445555,On Guard - Success, ,MC,,Sale,Approved,0-Online,427419,0, ,0
+INR,brewnok,brewnok IN,123456789,1002,15EMP,02-12-2025 19:01,02/13/2025 00:01:54,02/13/2025 05:04:17,891, ,Confirmed,POS108,Yes,999922225555,On Guard - Success, ,VI,,Sale,Approved,0-Online,140210,0, ,0
+INR,brewnok,brewnok IN,123456789,1003,15EMP,02-12-2025 19:01,02/13/2025 00:01:54,02/13/2025 05:04:17,891, ,Confirmed,POS109,Yes,777744441111,On Guard - Success, ,VI,,Sale,Declined,0-Online,140210,0, ,0
